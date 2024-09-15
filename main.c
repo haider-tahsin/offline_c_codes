@@ -1,5 +1,5 @@
 #include "arraylist.h"
-// #include "linkedlist.h"
+#include "linkedlist.h"
 #include <stdio.h>
 
 
